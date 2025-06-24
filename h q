@@ -1,0 +1,106 @@
+* [33mcommit 1521b4782b0203dba6e9d04e2b6c57b05b046496[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mfeature4[m[33m)[m
+[31m|[m Author: sujal goyal <digitalassandhsujal@gmail.com>
+[31m|[m Date:   Tue Jun 24 18:58:03 2025 +0530
+[31m|[m 
+[31m|[m     feature4
+[31m|[m   
+[31m|[m * [33mcommit bad3d3e50d9ea5f59c0bff65b4b7e554b36d2d73[m[33m ([m[1;32mfeature3[m[33m)[m
+[31m|[m[31m/[m  Author: sujal goyal <digitalassandhsujal@gmail.com>
+[31m|[m   Date:   Tue Jun 24 18:56:40 2025 +0530
+[31m|[m   
+[31m|[m       feature 3
+[31m|[m 
+* [33mcommit 3ff02ebf25b4e31db73282e9bb1b1e2faaed0957[m[33m ([m[1;31morigin/feature1[m[33m, [m[1;32mfeature1[m[33m)[m
+[32m|[m Author: sujal goyal <digitalassandhsujal@gmail.com>
+[32m|[m Date:   Tue Jun 24 18:05:15 2025 +0530
+[32m|[m 
+[32m|[m     feature1
+[32m|[m   
+[32m|[m * [33mcommit a54496aa27752244c90d78f244cb120e66926e52[m[33m ([m[1;31morigin/feature2[m[33m, [m[1;32mfeature2[m[33m)[m
+[32m|[m[32m/[m  Author: sujal goyal <digitalassandhsujal@gmail.com>
+[32m|[m   Date:   Tue Jun 24 18:08:52 2025 +0530
+[32m|[m   
+[32m|[m       feature2
+[32m|[m   
+*   [33mcommit 48987e748de502775e13468ba25f5f3f0f3e44a7[m[33m ([m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mmaster[m[33m)[m
+[34m|[m[35m\[m  Merge: 5cb34f3 9729e14
+[34m|[m [35m|[m Author: SUJALGOYAL125 <digitalassandhsujal@gmail.com>
+[34m|[m [35m|[m Date:   Tue Jun 24 17:32:15 2025 +0530
+[34m|[m [35m|[m 
+[34m|[m [35m|[m     Merge pull request #1 from SUJALGOYAL125/new_feature
+[34m|[m [35m|[m     
+[34m|[m [35m|[m     new_feature
+[34m|[m [35m|[m 
+[34m|[m * [33mcommit 9729e14ffcfa5cfb7c5a67387845ca205080c5be[m[33m ([m[1;31morigin/new_feature[m[33m, [m[1;32mnew_feature[m[33m)[m
+[34m|[m[34m/[m  Author: sujal goyal <digitalassandhsujal@gmail.com>
+[34m|[m   Date:   Tue Jun 24 17:18:24 2025 +0530
+[34m|[m   
+[34m|[m       new_feature
+[34m|[m   
+*   [33mcommit 5cb34f34f8eb70389eeb2c6c03bb7c7d02593e02[m
+[36m|[m[1;31m\[m  Merge: 95eda24 7b091e2
+[36m|[m [1;31m|[m Author: sujal goyal <digitalassandhsujal@gmail.com>
+[36m|[m [1;31m|[m Date:   Tue Jun 24 15:03:15 2025 +0530
+[36m|[m [1;31m|[m 
+[36m|[m [1;31m|[m     merge conflict resolved
+[36m|[m [1;31m|[m 
+[36m|[m * [33mcommit 7b091e25922d7a200ff161530e7b00818b401fb1[m[33m ([m[1;32mconflict[m[33m)[m
+[36m|[m [1;31m|[m Author: sujal goyal <digitalassandhsujal@gmail.com>
+[36m|[m [1;31m|[m Date:   Tue Jun 24 14:56:50 2025 +0530
+[36m|[m [1;31m|[m 
+[36m|[m [1;31m|[m     conflict 1
+[36m|[m [1;31m|[m 
+* [1;31m|[m [33mcommit 95eda243198e8bd53e95cc532449ac8b4f7e42dc[m
+[1;31m|[m[1;31m/[m  Author: sujal goyal <digitalassandhsujal@gmail.com>
+[1;31m|[m   Date:   Tue Jun 24 14:57:40 2025 +0530
+[1;31m|[m   
+[1;31m|[m       conflict 2
+[1;31m|[m   
+*   [33mcommit f69e9151148c4843dcabf70a0a578b8d9ef078b4[m
+[1;32m|[m[1;33m\[m  Merge: 98652d7 3a07dc0
+[1;32m|[m [1;33m|[m Author: sujal goyal <digitalassandhsujal@gmail.com>
+[1;32m|[m [1;33m|[m Date:   Tue Jun 24 14:49:30 2025 +0530
+[1;32m|[m [1;33m|[m 
+[1;32m|[m [1;33m|[m     mergw feature 1
+[1;32m|[m [1;33m|[m 
+[1;32m|[m * [33mcommit 3a07dc02fc034a10a16acb6ac4844382fa8de271[m
+[1;32m|[m [1;33m|[m Author: sujal goyal <digitalassandhsujal@gmail.com>
+[1;32m|[m [1;33m|[m Date:   Tue Jun 24 14:44:34 2025 +0530
+[1;32m|[m [1;33m|[m 
+[1;32m|[m [1;33m|[m     feature done
+[1;32m|[m [1;33m|[m 
+[1;32m|[m * [33mcommit 7e9e9ed05d443400d7fbf4a6b9e0de730ec9b8d7[m
+[1;32m|[m [1;33m|[m Author: sujal goyal <digitalassandhsujal@gmail.com>
+[1;32m|[m [1;33m|[m Date:   Tue Jun 24 14:33:52 2025 +0530
+[1;32m|[m [1;33m|[m 
+[1;32m|[m [1;33m|[m     feature commit 2
+[1;32m|[m [1;33m|[m 
+[1;32m|[m * [33mcommit 380214ac887f8101f33110dea4290bf9d9412105[m
+[1;32m|[m [1;33m|[m Author: sujal goyal <digitalassandhsujal@gmail.com>
+[1;32m|[m [1;33m|[m Date:   Tue Jun 24 14:33:14 2025 +0530
+[1;32m|[m [1;33m|[m 
+[1;32m|[m [1;33m|[m     feature commit 1
+[1;32m|[m [1;33m|[m 
+* [1;33m|[m [33mcommit 98652d7d7d590362064f13182a68b39f77ca70ca[m
+[1;33m|[m[1;33m/[m  Author: sujal goyal <digitalassandhsujal@gmail.com>
+[1;33m|[m   Date:   Tue Jun 24 14:35:28 2025 +0530
+[1;33m|[m   
+[1;33m|[m       bug fix
+[1;33m|[m 
+* [33mcommit 8831a5fbcaf271d56894a70ae199e47df4976388[m
+[1;33m|[m Author: sujal goyal <digitalassandhsujal@gmail.com>
+[1;33m|[m Date:   Tue Jun 24 14:11:28 2025 +0530
+[1;33m|[m 
+[1;33m|[m     version3
+[1;33m|[m 
+* [33mcommit 14bc5ea41d39835ecfe967ac19b6c143d0707ec7[m
+[1;33m|[m Author: sujal goyal <digitalassandhsujal@gmail.com>
+[1;33m|[m Date:   Tue Jun 24 14:10:58 2025 +0530
+[1;33m|[m 
+[1;33m|[m     version2
+[1;33m|[m 
+* [33mcommit a995dd74cecb7191b9995a5c649bb2b79738b896[m
+  Author: sujal goyal <digitalassandhsujal@gmail.com>
+  Date:   Tue Jun 24 14:10:15 2025 +0530
+  
+      version1
